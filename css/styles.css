@@ -1,0 +1,20 @@
+.info {
+  font-style: italic;
+}
+
+.list {
+  font-family: cursive;
+}
+
+.header {
+  text-align: center;
+  font-family: monospace;
+}
+
+.years {
+  font-weight: bolder;
+}
+
+.blowfish {
+  font-style: oblique;
+}
